@@ -29,7 +29,7 @@ add \\<title>\\<description>\\<due_date>
 View tasks that have been created - using the command,
 
 ```shell
-view <nameoffile>"
+view <nameoffile>
 ```
 
 Delete tasks from directory - using the command,
